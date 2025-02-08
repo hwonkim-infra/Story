@@ -1,2 +1,4 @@
 Compile a list of federal court and Supreme Court rulings from the last five years related to Section 230 of the Communications Decency Act, I asked Kylie to tell it. Summarize any significant developments in how judges have interpreted the law.
 
+Donald Trump’s pick for FBI director told senators he has no plans to divest his shares, which his financial disclosure form says were received in exchange for consulting services.
+
